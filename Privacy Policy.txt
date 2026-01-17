@@ -1,0 +1,58 @@
+Privacy Policy
+
+Last updated: 17 January 2026
+
+This application (“Jigsaw Puzzle YOU”) respects your privacy. This Privacy Policy explains how information is handled when you use the app.
+
+Information Collection and Use
+
+The app does not collect, store, transmit, or share any personal data.
+
+All features of the app function entirely on your device.
+
+Photos and Media
+
+If you choose to create puzzles from images on your device:
+
+Images are accessed only after your explicit permission
+
+Images are used solely within the app to generate puzzles
+
+Images are not uploaded, transmitted, backed up, or shared
+
+Images never leave your device
+
+The app does not retain copies of your images outside of normal local app usage.
+
+Permissions
+
+The app may request access to media or images on your device. This permission is used only to allow you to select images for puzzle creation. The app does not access any other files or data.
+
+Data Storage
+
+Any puzzles, progress, or preferences are stored locally on your device only. The app does not use cloud storage or remote servers.
+
+Third-Party Services
+
+The app does not use:
+
+Advertising services
+
+Analytics tools
+
+Tracking technologies
+
+Third-party SDKs that collect user data
+
+Children’s Privacy
+
+The app does not knowingly collect personal information from children. Because no data is collected, the app is suitable for users of all ages.
+
+Changes to This Policy
+
+This Privacy Policy may be updated if the app’s functionality changes. Updates will be posted on this page.
+
+Contact
+
+If you have any questions about this Privacy Policy, please contact the developer at:
+danieldbachmann@web.de
